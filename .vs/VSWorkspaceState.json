@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\data",
+    "\\src\\reducers",
+    "\\src\\router",
+    "\\src\\views",
+    "\\src\\views\\auth"
+  ],
+  "SelectedNode": "\\src\\components\\LoginLayout.js",
+  "PreviewInSolutionExplorer": false
+}
